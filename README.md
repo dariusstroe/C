@@ -1,4 +1,4 @@
 # CSharp_FlappyBirdReplica
 
-SPACE to play \n
+SPACE to play  
 Soundtrack size too big to be included in resources
